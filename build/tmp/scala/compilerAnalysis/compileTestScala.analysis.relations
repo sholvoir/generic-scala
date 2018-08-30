@@ -1,0 +1,14 @@
+products:
+   src/test/scala/GenericTest.scala -> build/classes/scala/test/IteratorsSpec.class
+   src/test/scala/GenericTest.scala -> build/classes/scala/test/OptionParserSpec.class
+binary dependencies:
+   src/test/scala/GenericTest.scala -> /Users/shaw/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.6/6bd975dd5ca2a50b94413b708389b892ae423181/scala-library-2.12.6.jar
+   src/test/scala/GenericTest.scala -> /Users/shaw/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.12/3.0.5/edec43902cdc7c753001501e0d8c2de78394fb03/scalactic_2.12-3.0.5.jar
+   src/test/scala/GenericTest.scala -> /Users/shaw/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.12/3.0.5/7bb56c0f7a3c60c465e36c6b8022a95b883d7434/scalatest_2.12-3.0.5.jar
+   src/test/scala/GenericTest.scala -> build/classes/scala/main/cn/micit/generic/Iterators$.class
+   src/test/scala/GenericTest.scala -> build/classes/scala/main/cn/micit/generic/Options$.class
+source dependencies:
+external dependencies:
+class names:
+   src/test/scala/GenericTest.scala -> IteratorsSpec
+   src/test/scala/GenericTest.scala -> OptionParserSpec

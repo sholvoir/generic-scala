@@ -1,0 +1,527 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/shaw/Projects/generic-scala/build/classes/scala/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+9 items
+0 -> -source
+1 -> 1.10
+2 -> -target
+3 -> 1.10
+4 -> -d
+5 -> /Users/shaw/Projects/generic-scala/build/classes/scala/main
+6 -> -g
+7 -> -proc:none
+8 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.12.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+13 items
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Generic$.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Generic.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/GetOnce.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$$anon$1.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$$anon$2.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$$anon$3.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$$anon$4.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Options$.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Options.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/TableFile$.class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> /Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/TableFile.class
+binary dependencies:
+5 items
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> /Users/shaw/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.6/6bd975dd5ca2a50b94413b708389b892ae423181/scala-library-2.12.6.jar
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> /Users/shaw/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.6/6bd975dd5ca2a50b94413b708389b892ae423181/scala-library-2.12.6.jar
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> /Users/shaw/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.6/6bd975dd5ca2a50b94413b708389b892ae423181/scala-library-2.12.6.jar
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> /Users/shaw/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.6/6bd975dd5ca2a50b94413b708389b892ae423181/scala-library-2.12.6.jar
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> /Users/shaw/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.6/6bd975dd5ca2a50b94413b708389b892ae423181/scala-library-2.12.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+13 items
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> cn.micit.generic.Generic
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> cn.micit.generic.Generic$
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> cn.micit.generic.GetOnce
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> cn.micit.generic.Iterators
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> cn.micit.generic.Iterators$
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> cn.micit.generic.Iterators$$anon$1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> cn.micit.generic.Iterators$$anon$2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> cn.micit.generic.Iterators$$anon$3
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> cn.micit.generic.Iterators$$anon$4
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> cn.micit.generic.Options
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> cn.micit.generic.Options$
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> cn.micit.generic.TableFile
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> cn.micit.generic.TableFile$
+used names:
+379 items
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> +
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> +=
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> ->
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> <
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> <byname>
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> <init>
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> >
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> A
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Any
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> AnyRef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Array
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> ArrowAssoc
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> B
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Boolean
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Function1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Generic
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Int
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Integer
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Iterable
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> K
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Map
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Nothing
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Object
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Ordering
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Predef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Seq
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> String
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> StringOps
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Tuple2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> U
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> Unit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> V
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> V1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> _2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> _root_
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> apply
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> array
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> asc
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> augmentString
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> cn
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> collection
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> contains
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> data
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> default
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> dict
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> empty
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> executeFunctions
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> foreach
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> functions
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> generic
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> getOrElse
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> head
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> idx
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> isEmpty
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> iter
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> java
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> key
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> lang
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> length
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> math
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> micit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> mutable
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> package
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> parseInt
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> parseOrElse
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> parser
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> scala
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> sortBy
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> str
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> tail
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> temp
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> toBoolean
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> toSeq
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> unary_-
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> x
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> y
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> &&
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> <
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> <init>
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> ==
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> A
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Any
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> AnyRef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Boolean
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> BufferedIterator
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Function1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> GetOnce
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Int
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Nothing
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Object
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Option
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Some
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> Unit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> _root_
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> apply
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> as
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> cn
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> generic
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> getid
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> hasNext
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> head
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> id
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> micit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> next
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> package
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> scala
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> while$1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> $anon
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> &&
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> +
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> <
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> <init>
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> >
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> A
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Any
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> AnyRef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> B
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Boolean
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> BufferedIterator
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> CanBuildFrom
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Coll
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Function1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Function2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Int
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Iterator
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Iterators
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Nothing
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Object
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Ordering
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Seq
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> String
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> T
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> T1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> T2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> That
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Tuple2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> Unit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> UnsupportedOperationException
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> _1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> _2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> _root_
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> a
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> a1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> a2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> apply
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> b
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> b1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> b2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> buffered
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> c
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> canBuildFrom
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> cmp
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> cn
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> collection
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> defaultA
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> defaultB
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> exists
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> filter
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> forall
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> generic
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> gotoNext
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> hasNext
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> head
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> index
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> isEmpty
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> iterator
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> iterators
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> iters
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> map
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> micit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> minBy
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> next
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> package
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> scala
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> t
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> while$1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> x
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> ||
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> $conforms
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> +
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> ->
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> <:<
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> <init>
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> <repeated>
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> ==
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> >
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> A
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> A1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Any
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> AnyRef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Array
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> ArrayOps
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> ArrowAssoc
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> B
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Boolean
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> CanBuildFrom
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> ClassTag
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Function1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Int
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> K
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Map
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> MatchError
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Nothing
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Object
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Option
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Options
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Predef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> String
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> StringOps
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> T
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> T1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> T2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> That
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> Tuple2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> U
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> V
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> V1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> _$4
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> _$7
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> _1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> _2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> apply
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> arg
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> args
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> augmentString
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> canBuildFrom
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> cn
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> empty
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> format
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> generic
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> get
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> head
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> i
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> isDefined
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> isEmpty
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> length
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> map
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> materializeClassTag
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> micit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> ne
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> ofRef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> options
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> package
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> parse
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> refArrayOps
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> reflect
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> scala
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> startsWith
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> tail
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> toMap
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> unary_!
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> updated
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> x
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> zipWithIndex
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> ||
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> !=
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> $conforms
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> &&
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> <:<
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> <init>
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> A
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> A1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Any
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> AnyRef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Array
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> ArrayOps
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> B
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Boolean
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> BufferedSource
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> CanBuildFrom
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Class
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> ClassTag
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Codec
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Coll
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> File
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> FilterMonadic
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Function1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Int
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Iterator
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> K
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Map
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> MatchError
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Nothing
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Object
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Option
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Predef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> PrintWriter
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Seq
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Source
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> String
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> StringOps
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> T
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> T1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> T2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> TableFile
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> That
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Tuple2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> U
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> Unit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> V
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> _$4
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> _$7
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> _1
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> _2
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> _root_
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> apply
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> augmentString
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> canBuildFrom
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> chrfile
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> clmfile
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> clmfileo
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> clmfiles
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> close
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> cn
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> collection
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> colm
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> cols
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> empty
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> f
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> fallbackSystemCodec
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> file
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> filter
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> foreach
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> fromFile
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> generic
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> get
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> getLines
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> hasNext
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> header
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> id
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> identify
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> immutable
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> index
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> infile
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> io
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> isDefined
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> java
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> k
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> line
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> lines
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> map
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> materializeClassTag
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> micit
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> mkString
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> mutable
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> ne
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> next
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> nonEmpty
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> ofRef
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> ofiles
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> out
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> outdir
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> outfile
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> outfiles
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> package
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> parser
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> println
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> pw
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> readDelimiter
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> refArrayOps
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> reflect
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> row
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> rows
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> scala
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> split
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> startsWith
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> tbuilder
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> toMap
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> toString
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> trim
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> unary_!
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> unchecked
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> update
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> value
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> withFilter
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> writeDelimiter
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> x
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> zipWithIndex
+product stamps:
+13 items
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Generic$.class -> lastModified(1535575732357)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Generic.class -> lastModified(1535575732358)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/GetOnce.class -> lastModified(1535575732364)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$$anon$1.class -> lastModified(1535575732495)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$$anon$2.class -> lastModified(1535575732503)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$$anon$3.class -> lastModified(1535575732512)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$$anon$4.class -> lastModified(1535575732518)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators$.class -> lastModified(1535575732481)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Iterators.class -> lastModified(1535575732482)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Options$.class -> lastModified(1535575732533)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/Options.class -> lastModified(1535575732533)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/TableFile$.class -> lastModified(1535575732555)
+/Users/shaw/Projects/generic-scala/build/classes/scala/main/cn/micit/generic/TableFile.class -> lastModified(1535575732556)
+source stamps:
+6 items
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> hash(d75afebede164741e73cd14cd58746375e9a7d8d)
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> hash(501fa5a8f4d66d493e2c319e40c115eb30377c42)
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/IntervalList.scala -> hash(b02bd17e506acbd0cfeb2730566ee11b15030580)
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> hash(71895fd93847f2e92d2ecdfe7820ad1a5074d80e)
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> hash(1fb592e97aa95b554af0951b3b402ba29d5d3af8)
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> hash(c286edb5d4bafc504802658739a7812471f3d96d)
+binary stamps:
+1 items
+/Users/shaw/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.6/6bd975dd5ca2a50b94413b708389b892ae423181/scala-library-2.12.6.jar -> lastModified(1535575670724)
+class names:
+1 items
+/Users/shaw/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.6/6bd975dd5ca2a50b94413b708389b892ae423181/scala-library-2.12.6.jar -> scala.collection.Iterator
+internal apis:
+6 items
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwux9+gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwONHjonQABm5vdGlmeXNxAH4ADOl3P150AAtwYXJzZU9yRWxzZXNxAH4ADJrqa510AA5wYXJzZUludE9yRWxzZXNxAH4ADKiIAjV0AAR3YWl0c3EAfgAMsnX1JXQADSRhc0luc3RhbmNlT2ZzcQB+AAwytAPZdAAGZXF1YWxzc3EAfgAMu5kHXnQADGFzSW5zdGFuY2VPZnNxAH4ADJkjlv50AAxzeW5jaHJvbml6ZWRzcQB+AAyWkCU6dAAdZ2V0U3RyaW5nRnJvbUFycmF5V2l0aERlZmF1bHRzcQB+AAx3CKE2dAANJGlzSW5zdGFuY2VPZnNxAH4ADLRTjfd0ABRnZXRTdHJpbmdXaXRoRGVmYXVsdHNxAH4ADKlCNoF0ABJwYXJzZUJvb2xlYW5PckVsc2VzcQB+AAwppTSUdAAJbm90aWZ5QWxsc3EAfgAM2GcnJXQADGlzSW5zdGFuY2VPZnNxAH4ADDMty5N0ABBleGVjdXRlRnVuY3Rpb25zc3EAfgAMuCSoj3QAEXBhcnNlSGV4SW50T3JFbHNlc3EAfgAMDEGZjHQACWdldE9yRWxzZXNxAH4ADPpDY+50AAI9PXNxAH4ADOJz/510AAVjbG9uZXNxAH4ADOozLOB0AAh0b1N0cmluZ3NxAH4ADEXeJu10AAxjb3VudEVsZW1lbnRzcQB+AAyIxXwMdAACIT1zcQB+AAyC6fo2dAAIZ2V0Q2xhc3NzcQB+AAzT+4XydAAWY291bnRFbGVtZW50JGRlZmF1bHQkMnNxAH4ADCskL/90AAJuZXNxAH4ADBDH9WN0AAdHZW5lcmljc3EAfgAMJHRHNXQAAmVxc3EAfgAMccp593QAAiMjc3EAfgAMvVTpv3QACGZpbmFsaXplc3EAfgAMAtmbm3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AU3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGGNuLm1pY2l0LmdlbmVyaWMuR2VuZXJpY3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0AAxzY2FsYS5uYXRpdmV0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4AcnNxAH4AbXVxAH4ATgAAAABzcQB+AG11cQB+AE4AAAAAc3EAfgBtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCKdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgB+dAADQW55c3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinQABXNjYWxhcQB+AJF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABBjbi5taWNpdC5nZW5lcmljc3EAfgCbdAAIY24ubWljaXRzcQB+AJt0AAJjbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZYdyJ2F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA7L1VzZXJzL3NoYXcvUHJvamVjdHMvZ2VuZXJpYy1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTXWv6+3hZHQec80UzVh0Y3Xpp9jQ==
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzM06RQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyuLfFnQABm5vdGlmeXNxAH4ADLgPzV10AAdHZXRPbmNlc3EAfgAMwxcxZ3QABHdhaXRzcQB+AAx/SarBdAANJGFzSW5zdGFuY2VPZnNxAH4ADEnabrx0AAZlcXVhbHNzcQB+AAza6VM4dAAMYXNJbnN0YW5jZU9mc3EAfgAMzawCPXQADHN5bmNocm9uaXplZHNxAH4ADAaKK2R0AA0kaXNJbnN0YW5jZU9mc3EAfgAM/fHMJnQACW5vdGlmeUFsbHNxAH4ADH05/gl0AAxpc0luc3RhbmNlT2ZzcQB+AAx7+6JFdAAGPGluaXQ+c3EAfgAMc9lDYXQAAj09c3EAfgAMIOYUYnQABWNsb25lc3EAfgAMgMO8fnQACHRvU3RyaW5nc3EAfgAMqT+veXQAAiE9c3EAfgAMpPGBU3QAA2dldHNxAH4ADFKF8HN0AAhnZXRDbGFzc3NxAH4ADFKvUcN0AAJuZXNxAH4ADCtnprd0AAJlcXNxAH4ADH/lcj10AAIjI3NxAH4ADLvNjex0AAhmaW5hbGl6ZXNxAH4ADB5WlBZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABhjbi5taWNpdC5nZW5lcmljLkdldE9uY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4ASEwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AEVMAAp1cHBlckJvdW5kcQB+AFZMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AE4AAAAAdAAaY24ubWljaXQuZ2VuZXJpYy5HZXRPbmNlLkFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHTm90aGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AanVxAH4AUwAAAABzcQB+AFt0AANBbnlxAH4AY35yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnR+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AHN0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0AAxzY2FsYS5uYXRpdmV0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgBdc3EAfgB9c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AXnNxAH4AfXVxAH4APgAAAABzcQB+AH11cQB+AD4AAAAAc3EAfgB9dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcQB+AFt0AAZPYmplY3RzcQB+AGFzcQB+AGR1cQB+AGcAAAADc3EAfgBpdAAEamF2YXNxAH4AaXQABGxhbmdxAH4AbnNxAH4AW3EAfgBxc3EAfgBhc3EAfgBkdXEAfgBnAAAAAnNxAH4AaXEAfgBscQB+AG51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABBjbi5taWNpdC5nZW5lcmljc3EAfgCcdAAIY24ubWljaXRzcQB+AJx0AAJjbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZYdyJ2F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA7L1VzZXJzL3NoYXcvUHJvamVjdHMvZ2VuZXJpYy1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRQH6Wo9NZtST4sMZ5AwRXrMDd8Qg==
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/IntervalList.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFlh3InYXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdAA7L1VzZXJzL3NoYXcvUHJvamVjdHMvZ2VuZXJpYy1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSwK9F+UGrL0M/rJzBWbuEbFQMFgA==
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwiUrycQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwSuEb7HQABm5vdGlmeXNxAH4ADFebpJp0AAxpbnRlcnNlY3RaaXBzcQB+AAz3HDGkdAAEd2FpdHNxAH4ADBP8O950AA0kYXNJbnN0YW5jZU9mc3EAfgAMz0Xgk3QAA3ppcHNxAH4ADLNE5Cd0AAZlcXVhbHNzcQB+AAwPJqr2dAAIdW5pb25aaXBzcQB+AAwWOy5YdAAMYXNJbnN0YW5jZU9mc3EAfgAM5Z+nHXQADHN5bmNocm9uaXplZHNxAH4ADLwe4490AA0kaXNJbnN0YW5jZU9mc3EAfgAMDI6L7nQACUl0ZXJhdG9yc3NxAH4ADBKaVpl0AAlub3RpZnlBbGxzcQB+AAyyK0bedAAMaXNJbnN0YW5jZU9mc3EAfgAMdIIKenQABmZpbHRlcnNxAH4ADOFoUE10AAI9PXNxAH4ADJQXLAN0AAVjbG9uZXNxAH4ADEZ7KGd0AAdjb21iaW5lc3EAfgAM7LyWC3QACHRvU3RyaW5nc3EAfgAMsyN7cHQAAiE9c3EAfgAMAmyTeXQACGdldENsYXNzc3EAfgAMFTjjr3QAAm5lc3EAfgAMLtNjXXQAAmVxc3EAfgAMIygRSnQAAiMjc3EAfgAMhUx5/XQACGZpbmFsaXplc3EAfgAMwb79X3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGmNuLm1pY2l0LmdlbmVyaWMuSXRlcmF0b3JzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQADHNjYWxhLm5hdGl2ZXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBoc3EAfgBjdXEAfgBEAAAAAHNxAH4AY3VxAH4ARAAAAABzcQB+AGN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEGNuLm1pY2l0LmdlbmVyaWNzcQB+AJF0AAhjbi5taWNpdHNxAH4AkXQAAmNuc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFlh3InYXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADsvVXNlcnMvc2hhdy9Qcm9qZWN0cy9nZW5lcmljLXNjYWxhL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHGJX9k4R/LpLS7N/nggrRpQdNgO
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYdzrlAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwTYtP53QABm5vdGlmeXNxAH4ADE6PBaJ0AAR3YWl0c3EAfgAMrDW1p3QADSRhc0luc3RhbmNlT2ZzcQB+AAxH9tSVdAAGZXF1YWxzc3EAfgAMIK5+IXQADGFzSW5zdGFuY2VPZnNxAH4ADKq2Qk10AAxzeW5jaHJvbml6ZWRzcQB+AAxXF/tpdAANJGlzSW5zdGFuY2VPZnNxAH4ADA03b9V0AAlub3RpZnlBbGxzcQB+AAwg3D3/dAAMaXNJbnN0YW5jZU9mc3EAfgAMRcHGoHQABXBhcnNlc3EAfgAMGViXA3QAAj09c3EAfgAMpzSQhHQABWNsb25lc3EAfgAMGSJ0wXQAB09wdGlvbnNzcQB+AAxgCHKNdAAIdG9TdHJpbmdzcQB+AAwkfdwvdAACIT1zcQB+AAxFtyi7dAAIZ2V0Q2xhc3NzcQB+AAwyz4cndAACbmVzcQB+AAwc8ozNdAACZXFzcQB+AAxOQti6dAACIyNzcQB+AAw9eCrBdAAIZmluYWxpemVzcQB+AAySpHTVdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAYY24ubWljaXQuZ2VuZXJpYy5PcHRpb25zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQADHNjYWxhLm5hdGl2ZXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBgc3EAfgBbdXEAfgA8AAAAAHNxAH4AW3VxAH4APAAAAABzcQB+AFt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHlzcQB+AGx0AANBbnlzcQB+AHBzcQB+AHN1cQB+AHYAAAACc3EAfgB4dAAFc2NhbGFxAH4Af3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEGNuLm1pY2l0LmdlbmVyaWNzcQB+AIl0AAhjbi5taWNpdHNxAH4AiXQAAmNuc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFlh3InYXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADsvVXNlcnMvc2hhdy9Qcm9qZWN0cy9nZW5lcmljLXNjYWxhL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFB+1kul6qVtVSvCVGztAK6KdXTr4
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwywTrlgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwoYqEGHQABm5vdGlmeXNxAH4ADFILGdV0AARyZWFkc3EAfgAMBxRHGXQABHdhaXRzcQB+AAy8l0c5dAALY29sdW1uU3BsaXRzcQB+AAx8V4qJdAANJGFzSW5zdGFuY2VPZnNxAH4ADDRFDZN0AAxjaGFuZ2VGaWx0ZXJzcQB+AAzBcmrpdAAGZXF1YWxzc3EAfgAMkI2Xx3QADGFzSW5zdGFuY2VPZnNxAH4ADO5mTtR0AAxzeW5jaHJvbml6ZWRzcQB+AAzCcgw5dAAJVGFibGVGaWxlc3EAfgAMffVCTXQADSRpc0luc3RhbmNlT2ZzcQB+AAxaDfP0dAAJbm90aWZ5QWxsc3EAfgAMGNEur3QADGlzSW5zdGFuY2VPZnNxAH4ADPsS5o10AA9jb25kaXRpb25GaWx0ZXJzcQB+AAyxDHTUdAAIcm93U3BsaXRzcQB+AAxTZhSsdAACPT1zcQB+AAyD9A28dAAFY2xvbmVzcQB+AAx7ji3qdAAIdG9TdHJpbmdzcQB+AAzXBFkDdAACIT1zcQB+AAzG9EKrdAAIZ2V0Q2xhc3NzcQB+AAwE7xKMdAACbmVzcQB+AAwYO4WVdAACZXFzcQB+AAwJlmQQdAAFd3JpdGVzcQB+AAz2W9tsdAACIyNzcQB+AAwAs3QIdAAIZmluYWxpemVzcQB+AAwYBy7pdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAaY24ubWljaXQuZ2VuZXJpYy5UYWJsZUZpbGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAMc2NhbGEubmF0aXZldAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGpzcQB+AGV1cQB+AEYAAAAAc3EAfgBldXEAfgBGAAAAAHNxAH4AZXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ag3NxAH4AdnQAA0FueXNxAH4AenNxAH4AfXVxAH4AgAAAAAJzcQB+AIJ0AAVzY2FsYXEAfgCJdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAQY24ubWljaXQuZ2VuZXJpY3NxAH4Ak3QACGNuLm1pY2l0c3EAfgCTdAACY25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWWHcidhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOy9Vc2Vycy9zaGF3L1Byb2plY3RzL2dlbmVyaWMtc2NhbGEvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUwobttdS6/FBIAmWHOaeBJHHz2W0=
+external apis:
+0 items
+source infos:
+6 items
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Generic.scala -> 
+AAAAAAAAAAA=
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/GetOnce.scala -> 
+AAAAAAAAAAA=
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/IntervalList.scala -> 
+AAAAAAAAAAA=
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Iterators.scala -> 
+AAAAAAAAAAA=
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/Options..scala -> 
+AAAAAAAAAAA=
+/Users/shaw/Projects/generic-scala/src/main/scala/generic/TableFile.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZYdyJ2F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy9zaGF3L1Byb2plY3RzL2dlbmVyaWMtc2NhbGEvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABLw==
