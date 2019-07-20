@@ -95,7 +95,7 @@ object TableFile {
     * @param outfile output file
     * @param filter line => index(start with 0, exclude firstline) => boolean(remain it?)
     */
-  def conditionFilter(infile: File)(outfile: File)(filter: String => Int => Boolean) {
+  def conditionFilter(infile: File)(outfile: File)(filter: String => Int => Boolean): Unit = {
     val out = new PrintWriter(outfile)
     try {
       val lines = Source.fromFile(infile).getLines
@@ -112,7 +112,7 @@ object TableFile {
     * @param outfile output file
     * @param filter line => index => id
     */
-  def changeFilter(infile: File)(outfile: File)(filter: String => Int => Any) {
+  def changeFilter(infile: File)(outfile: File)(filter: String => Int => Any): Unit = {
     val out = new PrintWriter(outfile)
     try {
       val lines = Source.fromFile(infile).getLines

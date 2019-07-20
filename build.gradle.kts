@@ -12,15 +12,15 @@ plugins {
 }
 
 dependencies {
-    // Use Scala 2.12 in our library project
-    compile("org.scala-lang:scala-library:2.12.6")
+    // Use Scala 2.13 in our library project
+    compile("org.scala-lang:scala-library:2.13.0")
 
     // Use Scalatest for testing our library
-    // testCompile("org.junit:junit:5.2")
-    testCompile("org.scalatest:scalatest_2.12:3.0.5")
+    testCompile("junit:junit:4.12")
+    testCompile("org.scalatest:scalatest_2.13:3.0.8")
 
     // Need scala-xml at test runtime
-    testRuntime("org.scala-lang.modules:scala-xml_2.12:1.1.0")
+    testRuntime("org.scala-lang.modules:scala-xml_2.13:1.2.0")
 }
 
 // In this section you declare where to find the dependencies of your project
@@ -31,4 +31,4 @@ repositories {
 }
 
 group = "cn.micit"
-version = "2.12_1.4.0"
+version = "2.13_1.4.0"

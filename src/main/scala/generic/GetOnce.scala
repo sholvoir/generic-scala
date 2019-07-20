@@ -1,5 +1,7 @@
 package cn.micit.generic
 
+import scala.collection.BufferedIterator;
+
 /**
   * Created by sovar on 6/8/16.
   * You can get once from a BufferedIterator which have been sorted by id.

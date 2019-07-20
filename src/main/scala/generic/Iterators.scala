@@ -67,7 +67,7 @@ object Iterators {
 
     def hasNext = a1.hasNext && b1.hasNext
 
-    private def gotoNext() {
+    private def gotoNext(): Unit = {
       var x = true
       while (hasNext && x) {
         val c = cmp(a1.head, b1.head)
