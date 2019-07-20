@@ -30,5 +30,5 @@ repositories {
     jcenter()
 }
 
-group = "cn.micit"
+group = "com.micinfotech"
 version = "2.13_1.4.0"

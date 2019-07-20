@@ -1,4 +1,4 @@
-package cn.micit.generic
+package com.micinfotech.generic
 
 /**
   * some functions for Iterator.

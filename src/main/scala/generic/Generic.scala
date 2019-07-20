@@ -1,4 +1,4 @@
-package cn.micit.generic
+package com.micinfotech.generic
 
 import scala.collection.mutable
 

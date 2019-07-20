@@ -1,7 +1,7 @@
 import java.io.File
 
 import org.scalatest._
-import cn.micit.generic._
+import com.micinfotech.generic._
 
 /** class TableFileSpec extends FlatSpec with Matchers {
   "TableFile" should "have tests" in {

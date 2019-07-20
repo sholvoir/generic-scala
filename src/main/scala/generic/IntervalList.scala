@@ -1,5 +1,5 @@
 /**
-  * package cn.micit.generic
+  * package com.micinfotech.generic
 
 
   * Created by sovar on 1/3/17.
