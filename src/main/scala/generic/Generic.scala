@@ -42,5 +42,5 @@ object Generic {
   lazy val parseBooleanOrElse = parseOrElse(x => x.toBoolean)_
   def getStringWithDefault(default: => String)(str: String) = if (str.isEmpty) default else str
   def getStringFromArrayWithDefault(default: => String)(array: Array[String])(idx: Int) =
-    if (idx < array.length) array(idx) else default
+    if (idx < array.length && !array(idx).isEmpty) array(idx) else default
 }
